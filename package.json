@@ -1,0 +1,16 @@
+{
+  "repository": {},
+  "dependencies": {
+    "babel-brunch": "paulmillr/babel-brunch#5c841fcacbd50e06bce6f67571a23619c11940fe",
+    "brunch": "^2.1.1",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "css-brunch": ">= 1.0 < 1.8",
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5",
+    "uglify-js-brunch": ">= 1.0 < 1.8"
+  },
+  "devDependencies": {
+    "babel-preset-react": "^6.3.13"
+  }
+}
